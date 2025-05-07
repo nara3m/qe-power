@@ -1,6 +1,6 @@
-# Turbo Pump Voltage-Current Dashboard
+# Turbo Pump Power (Voltage x Current) Dashboard
 
-This script processes a TSV file containing date-time and measurement data, then generates an interactive Bokeh dashboard with scatter plots for voltage and current data.
+This script processes a TSV file containing voltage and current data of two Turbo pumps attached to Q-Exactive Mass Spectrometer, then generates an interactive Bokeh dashboard with scatter plots for Power.
 
 ## Features
 
