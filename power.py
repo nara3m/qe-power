@@ -1,4 +1,4 @@
-## ChatGPT Prompt
+## Prompt
 
 # 1. I have a tsv files with header row. First column in tsv file is a date-time value. Date in YYYY-MM-DD format seprated by a single space and time in 24 hour format HH:MM:SS. Sixth and seventh columns in tsv file are number.
 # 2. some rows do not follow date time in first column or number in sixth and seventh columns. Ignore these rows.
